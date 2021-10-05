@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\generate_md_file.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\generate_md_file.dir/objects.a @CMakeFiles\generate_md_file.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\generate_md_file.dir/objects.a -Wl,--no-whole-archive -o generate_md_file.exe -Wl,--out-implib,libgenerate_md_file.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\generate_md_file.dir\linklibs.rsp
+/usr/bin/c++ -g CMakeFiles/generate_md_file.dir/generate_md_file.cpp.o -o generate_md_file  -pthread 

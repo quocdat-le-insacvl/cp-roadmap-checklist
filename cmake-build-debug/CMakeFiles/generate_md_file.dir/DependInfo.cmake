@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Night Fury/CLionProjects/cp-roadmap-checklist/generate_md_file.cpp" "C:/Users/Night Fury/CLionProjects/cp-roadmap-checklist/cmake-build-debug/CMakeFiles/generate_md_file.dir/generate_md_file.cpp.obj"
+  "/home/nightfury/CLionProjects/cp-roadmap-checklist/generate_md_file.cpp" "/home/nightfury/CLionProjects/cp-roadmap-checklist/cmake-build-debug/CMakeFiles/generate_md_file.dir/generate_md_file.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
