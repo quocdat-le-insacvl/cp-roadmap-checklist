@@ -43,22 +43,6 @@ If you are a beginner then just learn basic topics and solve problems.
 </head>
 
 <details>
-<summary>Category: Basics</summary>
-<body>
-            <h3> Category: Basics</h3>
-            <table style="width:100%">
-                <tr style="background-color:#E0E0E0">
-                    <th style="width:50%">Title</th>
-                    <th style="width:50%">Resources</th>
-                </tr>
-                <tr>
-                    <td>Basic Topics</td>
-                    <td><a href="https://www.codechef.com/ioi/basics"> 1 </a> <a href="https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/ "> 2 </a> <a href="https://www.hackerearth.com/getstarted-competitive-programming/"> 3 </a>                        <a href="https://github.com/the-hyp0cr1t3/CC/tree/master/Beginner%20Topics"> 4 </a> </td>
-                </tr>
-            </table>
-</body>
-</details>
-<details>
  <summary>Category: Math</summary>
 <body>
 <h3> Category: Math</h3>
