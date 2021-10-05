@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Night Fury/CLionProjects/cp-roadmap-checklist/generate_md_file.cpp
+bits/stdc++.h
+-
+lazycsv.hpp
+C:/Users/Night Fury/CLionProjects/cp-roadmap-checklist/lazycsv.hpp
+
+C:/Users/Night Fury/CLionProjects/cp-roadmap-checklist/lazycsv.hpp
+algorithm
+-
+array
+-
+cstring
+-
+iterator
+-
+stdexcept
+-
+string
+-
+string_view
+-
+errno.h
+-
+fcntl.h
+-
+sys/mman.h
+-
+sys/stat.h
+-
+unistd.h
+-
+
