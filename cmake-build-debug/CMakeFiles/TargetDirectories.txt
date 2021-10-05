@@ -1,3 +1,0 @@
-/home/nightfury/CLionProjects/cp-roadmap-checklist/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/nightfury/CLionProjects/cp-roadmap-checklist/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/nightfury/CLionProjects/cp-roadmap-checklist/cmake-build-debug/CMakeFiles/generate_md_file.dir

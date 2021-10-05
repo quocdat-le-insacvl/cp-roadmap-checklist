@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/generate_md_file.dir/generate_md_file.cpp.o -o generate_md_file  -pthread 
