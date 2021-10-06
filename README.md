@@ -2,7 +2,7 @@
 
 This is a checklist to track my progress in CP. Thanks a lot for this awesome roadmap written by [@ShahjalalShohag](https://github.com/ShahjalalShohag).
 
-You may fork this repository and make an :white_check_mark every task you’re done.
+You may fork this repository and tick ✔️ every task you’re done.
 
 Lastly, I hope it could be useful for someone...
 
