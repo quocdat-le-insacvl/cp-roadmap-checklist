@@ -9,34 +9,37 @@ using namespace csv;
 using namespace std;
 
 const string open_box = "<ul><li>[ ] ", close_box = "</li></ul>";
-bool isNull = false;
+//bool isNull = false;
 
 void write_to_file(ostream &out, string_view s, int i) {
     if (i == 1 || i == 2 || i == 15) {
         out << s << " | ";
     } else if (i == 3 || i == 5 || i == 7 || i == 9 || i == 11 | i == 13) {
-        if (s == "") {
-            isNull = true;
-        } else {
-            isNull = false;
-            out << open_box;
-        }
+//        if (s == "") {
+//            isNull = true;
+//        } else {
+//            isNull = false;
+//            out << open_box;
+//        }
         out << " [" << s << ']';
     } else if (i == 4 || i == 6 || i == 8 || i == 10 || i == 12 || i == 14) {
         out << '(' << s << ")";
-        if (!isNull) {
-            isNull = false;
-            out << close_box;
-        }
+//        if (!isNull) {
+//            isNull = false;
+//            out << close_box;
+//        }
     }
     if (i == 6 || i == 10 || i == 14) {
         out << " | ";
+    }
+    if (i == 2) {
+       out << open_box << close_box << " | ";
     }
 }
 
 int main() {
     CSVReader reader("../run_results.csv");
-    string header = "Id | Name |  Resources | Problems | Code | Difficulty\n---|---|---|---|---|---|\n";
+    string header = "Id | Name | Done |  Resources | Problems | Code | Difficulty\n---|---|---|---|---|---|---|\n";
     vector <ofstream> list_file;
     ofstream math("../Math.md", ofstream::trunc);
     list_file.push_back(move(math));
