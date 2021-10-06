@@ -1,6 +1,6 @@
 # CP Roadmap
 
-This is a checklist to track my progress in CP. Thanks a lot for this awesome roadmap written by [@ShahjalalShohag](https://github.com/ShahjalalShohag).
+This is a checklist to track my progress in CP. Thanks a lot for this awesome topic list written by [@ShahjalalShohag](https://github.com/ShahjalalShohag).
 
 You may fork this repository and tick ✔️ every task you’re done.
 
