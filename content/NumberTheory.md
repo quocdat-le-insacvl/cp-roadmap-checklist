@@ -1,3 +1,5 @@
+# Number Theory
+
 Id | Name | Done |  Resources | Problems | Code | Difficulty
 ---|---|---|---|---|---|---|
 56 | Binary Exponentiation | <ul><li>[ ] </li></ul> |  [1](https://cp-algorithms.com/algebra/binary-exp.html) []() |  [1](https://cp-algorithms.com/algebra/binary-exp.html#toc-tgt-9) []() |  []() []() | 1 | 

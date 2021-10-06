@@ -1,3 +1,5 @@
+# Strings
+
 Id | Name | Done |  Resources | Problems | Code | Difficulty
 ---|---|---|---|---|---|---|
 285 | KMP | <ul><li>[ ] </li></ul> |  [1](https://cp-algorithms.com/string/prefix-function.html) []() |  [1](https://cp-algorithms.com/string/prefix-function.html#toc-tgt-13) []() |  [code](https://github.com/ShahjalalShohag/code-library/blob/master/Strings/KMP.cpp) []() | 1 | 

@@ -1,3 +1,5 @@
+# Game Theory
+
 Id | Name | Done |  Resources | Problems | Code | Difficulty
 ---|---|---|---|---|---|---|
 427 | Grundy Number | <ul><li>[ ] </li></ul> |  [1](http://e-maxx.ru/algo/sprague_grundy) [2](https://codeforces.com/blog/entry/66040) |  []() []() |  []() []() | 1 | 

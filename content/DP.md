@@ -1,3 +1,5 @@
+# Dynamic Programming
+
 Id | Name | Done |  Resources | Problems | Code | Difficulty
 ---|---|---|---|---|---|---|
 312 | Digit DP | <ul><li>[ ] </li></ul> |  [1](https://codeforces.com/blog/entry/53960) []() |  [1](https://vjudge.net/problem/LightOJ-1068) []() |  [code](https://github.com/ShahjalalShohag/code-library/blob/master/Dynamic%20Programming%20Optimizations/Digit%20DP.cpp) []() | 1 | 
